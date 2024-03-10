@@ -1789,7 +1789,7 @@ font-family: 'Indie Flower', cursive;
   position: absolute;
   bottom: 1em;
   right: -12px;
-  background: #F44;
+  background: rgb(17, 3, 148);
   color: #FFF;
   font-family: 'Lobster', cursive;
   font-style: italic;
@@ -1804,7 +1804,7 @@ font-family: 'Indie Flower', cursive;
 
 #card-front button:hover,
 #card-front button:focus {
-  background: #F22;
+  background: rgb(13, 4, 143);
 }
 
 #close {
